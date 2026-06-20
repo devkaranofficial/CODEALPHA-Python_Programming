@@ -1,0 +1,8 @@
+STOCK PORTFOLIO REPORT
+==================================================
+
+AMD | Quantity: 23 | Investment: Rs.27600
+Google | Quantity: 45 | Investment: Rs.67500
+Intel | Quantity: 78 | Investment: Rs.101400
+
+TOTAL INVESTMENT VALUE : Rs.196500
