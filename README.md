@@ -1,64 +1,177 @@
-#  CodeAlpha Python Programming Internship
+# 🚀 CodeAlpha Python Programming Internship
 
-This repository contains all projects completed during my Python Programming Internship at CodeAlpha.
+Welcome to my CodeAlpha Python Programming Internship repository.
 
-##  Intern Information
-
-* Name: Dev Karan Singh
-* Domain: Python Programming
-* Organization: CodeAlpha
-* Internship Track: Python Development
-
-## 📌 Completed Tasks
-
-### ✅ Task 1 – Hangman Game
-
-A console-based Hangman game developed in Python featuring:
-
-* Three difficulty levels
-* ASCII Hangman graphics
-* Score tracking system
-* Persistent high score storage
-* Player name tracking
-* Multi-word support
-* Input validation
-
-Repository:
-
-* CodeAlpha_Hangman-Game
-
-### 🚧 Task 2 – Stock Portfolio Tracker
-
-Status: In Progress
-
-### 🚧 Task 3 – Task Automation with Python Scripts
-
-Status: In Progress
-
-### 🚧 Task 4 – Basic Chatbot
-
-Status: In Progress
-
-## 🛠 Skills Demonstrated
-
-* Python Fundamentals
-* File Handling
-* Exception Handling
-* Loops & Conditional Statements
-* Data Structures
-* Problem Solving
-* Console Application Development
-
-## 🔗 Connect With Me
-
-GitHub: https://github.com/devkaranofficial
-
-LinkedIn: (Add your LinkedIn profile link here)
-
-## 📜 Internship Tasks
-
-According to the internship requirements, participants must complete multiple Python projects covering concepts such as file handling, automation, chatbots, and game development.
+This repository contains all projects completed during my internship, showcasing Python fundamentals, problem-solving skills, file handling, automation, and application development.
 
 ---
 
-⭐ Thank you for visiting my repository!
+# 👨‍💻 Intern Information
+
+* **Name:** Dev Karan Singh
+* **Domain:** Python Programming
+* **Organization:** CodeAlpha
+* **Internship Track:** Python Development
+
+---
+
+# 📌 Completed Projects
+
+## 🎮 Task 1 – Hangman Game
+
+A console-based word guessing game built using Python.
+
+### Features
+
+* Three Difficulty Levels
+* ASCII Hangman Graphics
+* Score Tracking System
+* High Score Storage
+* Multi-word Support
+* Player Name Tracking
+* Input Validation
+* File Handling
+
+**Project Folder:** `CodeAlpha_Hangman-Game`
+
+---
+
+## 📈 Task 2 – Stock Portfolio Tracker
+
+A Python application that allows users to manage stock investments and calculate portfolio value.
+
+### Features
+
+* Display Available Stocks
+* Buy Stocks by Quantity
+* Investment Calculation
+* Portfolio Summary
+* Input Validation
+* Portfolio Report Generation
+* File Handling
+
+**Project Folder:** `CodeAlpha_StockPortfolioTracker`
+
+---
+
+## 📧 Task 3 – Email Address Extractor
+
+A Python automation script that extracts email addresses from text files using Regular Expressions.
+
+### Features
+
+* Read Input Text Files
+* Extract Email Addresses using Regex
+* Save Results Automatically
+* File Handling
+* Automation Workflow
+
+**Project Folder:** `CodeAlpha_TaskAutomation`
+
+---
+
+## 🤖 Task 4 – AlphaBot Personal Assistant Chatbot
+
+An advanced rule-based chatbot developed using Python.
+
+### Features
+
+* User Interaction System
+* Name Memory
+* Date & Time Information
+* Calculator
+* Notes Manager
+* To-Do List Manager
+* Random Facts
+* Motivational Quotes
+* Joke Generator
+* Chat History
+* Command Center Menu
+* File Handling
+
+**Project Folder:** `CodeAlpha_PersonalAssistantChatbot`
+
+---
+
+# 🛠 Python Skills Demonstrated
+
+### Core Python
+
+* Variables & Data Types
+* Functions
+* Loops
+* Conditional Statements
+* Lists
+* Dictionaries
+* Strings
+
+### Intermediate Python
+
+* Exception Handling
+* File Handling
+* Modular Programming
+* User Input Validation
+
+### Libraries & Modules
+
+* random
+* datetime
+* re (Regular Expressions)
+
+### Development Skills
+
+* Problem Solving
+* Automation
+* Console Application Development
+* Project Structuring
+* Git & GitHub
+
+---
+
+# 📂 Repository Structure
+
+```text
+CODEALPHA-Python_Programming
+
+├── CodeAlpha_Hangman-Game
+├── CodeAlpha_StockPortfolioTracker
+├── CodeAlpha_TaskAutomation
+├── CodeAlpha_PersonalAssistantChatbot
+└── README.md
+```
+
+---
+
+# 🎯 Internship Outcome
+
+Through this internship, I gained practical experience in:
+
+* Python Programming
+* File Handling
+* Automation Scripts
+* Game Development
+* Chatbot Development
+* Problem Solving
+* GitHub Project Management
+
+---
+
+# 🔗 Connect With Me
+
+### GitHub
+
+https://github.com/devkaranofficial
+
+### LinkedIn
+
+www.linkedin.com/in/dev-karan-singh-979006413
+
+---
+
+# ⭐ Thank You
+
+Thank you for visiting my repository.
+
+If you found these projects useful, feel free to explore the code and provide feedback.
+
+Happy Coding! 🚀
